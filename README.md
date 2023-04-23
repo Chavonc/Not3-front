@@ -1,5 +1,5 @@
 # Not3-front
-(Start From 04/16) 結構程式碼參考資料
+(Start From 04/16) 結構程式碼等等參考資料
 <p>1.https://ithelp.ithome.com.tw/articles/10299008</p>
 <p>2. https://ithelp.ithome.com.tw/users/20134548/ironman/4459</p>
 <p>3. https://github.com/wayne900204/Flutter-IT30</p>
