@@ -7,6 +7,7 @@
 <p>5. Icon的 https://pictogrammers.com/library/mdi/</p>
 <p>6. Row&Column https://juejin.cn/post/7017757399033315365</p>
 <p>7. 下載前端要用的圖片(每次free下載2張而已!) https://zh.pngtree.com/so</p>
+<p>8. chat page 參考 https://www.freecodecamp.org/news/build-a-chat-app-ui-with-flutter/</p>
 <!--20230416版
 <br>1.把assets資料夾放在專案裡</br>
 <br>2.把lib資料夾代替你原有專案裡的lib資料夾</br>
