@@ -9,6 +9,8 @@
 <p>7. 下載前端要用的圖片(每次free下載2張而已!) https://zh.pngtree.com/so</p>
 <p>8. chat page 參考 https://www.freecodecamp.org/news/build-a-chat-app-ui-with-flutter/</p>
 <p>9. 架構及寫法參考資料 https://github.com/flutter/gallery/tree/main/lib</p>
+<p>10. 不同裝置自動調整螢幕 <img src="https://i1.kknews.cc/2dAcchKvvF-YB6Fu2Vjyxlxf-Aa3zuY/0.jpg">
+</p>
 <!--20230416版
 <br>1.把assets資料夾放在專案裡</br>
 <br>2.把lib資料夾代替你原有專案裡的lib資料夾</br>
