@@ -13,7 +13,7 @@
 <p>https://github.com/OpenFlutter/flutter_screenutil</p>
 <p>https://www.jb51.net/article/267791.htm</p>
 <img src="https://i1.kknews.cc/2dAcchKvvF-YB6Fu2Vjyxlxf-Aa3zuY/0.jpg">
-
+<p>11. 卡片滚動 https://segmentfault.com/a/1190000019716289</p>
 <!--20230416版
 <br>1.把assets資料夾放在專案裡</br>
 <br>2.把lib資料夾代替你原有專案裡的lib資料夾</br>
