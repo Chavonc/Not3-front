@@ -28,6 +28,14 @@
 <b>20230430的版本</b>
 <p>1. 做了聊天室的頁面(叶)</p>
 <p>2. Drawer完成(嫺)</p>
-<p>3.創建Tree有加號(叶)</p>
-<p>4.Discover 可參考APP的原始碼 https://github.com/flutter/gallery/tree/main/lib (嫺，可download demo使用)</p>
-<p>5.Working on 創建葉子(叶、嫺)</p>
+<p>3. 創建Tree有加號(叶)</p>
+<p>4. Discover 可參考APP的原始碼 https://github.com/flutter/gallery/tree/main/lib (嫺，可download demo使用)</p>
+<p>5. Working on 創建葉子(叶、嫺)</p>
+
+<b>20230507的版本</b>
+<p>1. 修改聊天室的頁面(叶)</p>
+<p>2. 創建葉子主頁(叶)</p>
+<p>3. 完成創建筆跡和圖層葉子頁面(嫺)</p>
+<p>4. 要按照裝置來進行調整頁面(iPad、iPhone、Android Phone)，目前程式碼是設成Android Phone的格式</p>
+<p>5. Next Step working on 自由葉子會直接進入葉子筆記階段(會議中)</p>
+<p>6. 檢視果實實際內容要等筆記階段做完才有</p>
