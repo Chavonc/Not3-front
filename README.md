@@ -46,3 +46,7 @@
 <p>4. 要按照裝置來進行調整頁面(iPad、iPhone、Android Phone)，目前程式碼是設成Android Phone的格式</p>
 <p>5. Next Step working on 自由葉子會直接進入葉子筆記階段(會議中)</p>
 <p>6. 檢視果實實際內容要等筆記階段做完才有</p>
+
+<b>20230521的版本</b>
+<p>1. 自由葉子頁面(嫺+晴)</p>
+<p>2. TabBar(嫺)+Bottom Menu(晴)</p>
