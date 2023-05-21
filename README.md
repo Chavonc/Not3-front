@@ -16,6 +16,7 @@
 <p>11. 卡片滚動 https://segmentfault.com/a/1190000019716289</p>
 <p>12. 手勢左右滑動 https://book.flutterchina.club/chapter8/gesture.html#_8-2-2-gesturerecognizer</p>
 <p>13. flutter 中监听滑动事件 https://learnku.com/articles/30338</p>
+<p>14. https://github.com/crazycodeboy/awesome-flutter-cn</p>
 <!--20230416版
 <br>1.把assets資料夾放在專案裡</br>
 <br>2.把lib資料夾代替你原有專案裡的lib資料夾</br>
