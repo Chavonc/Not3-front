@@ -1,18 +1,12 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id":1,
-      "email":"michael.lawson@reqres.in",
-      "password":"12345678",
-    },
-    {
-      "id":2,
-      "email":"tobias.funke@reqres.in",
-      "password":"asdfghjk",
-    },
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": 
   {
-    "name": "typicode",
+    "name": "typicode"
   }
 }
