@@ -6,7 +6,8 @@
       "email":"michael.lawson@reqres.in",
       "first_name":"Michael",
       "last_name":"Lawson",
-      "password":"12345678"},
+      "password":"12345678"
+    },
     {
       "id":2,
       "email":"tobias.funke@reqres.in",
